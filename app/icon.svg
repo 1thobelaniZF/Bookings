@@ -1,4 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#5e2b8a"/>
-  <path d="M14 13H50L24 45H50V51H13L39 19H14Z" fill="#f37421"/>
+  <rect width="64" height="64" rx="14" fill="#f37421"/>
+  <g fill="#ffffff">
+    <!-- backrest -->
+    <rect x="21" y="9" width="22" height="22" rx="6"/>
+    <!-- seat -->
+    <rect x="16" y="30" width="32" height="8" rx="4"/>
+    <!-- armrests -->
+    <rect x="11" y="24" width="5" height="12" rx="2.5"/>
+    <rect x="48" y="24" width="5" height="12" rx="2.5"/>
+    <!-- gas lift -->
+    <rect x="29.5" y="38" width="5" height="8" rx="1"/>
+    <!-- star base -->
+    <rect x="16" y="45" width="32" height="4" rx="2"/>
+    <!-- castors -->
+    <circle cx="18" cy="52" r="3.5"/>
+    <circle cx="32" cy="52" r="3.5"/>
+    <circle cx="46" cy="52" r="3.5"/>
+  </g>
 </svg>
